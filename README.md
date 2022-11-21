@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Custom airdrop
 
 The custom NFT drop with specific requirements for Ushi holders from Opensea Shared Storefront origin. 
 
